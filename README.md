@@ -8,6 +8,7 @@ Building AI systems that hold up under real-world conditions —
 physics-informed, safety-governed, and fast enough to run in real time.
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=VaPYiE8AAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-r-8283a5340/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rsachinapis706@gmail.com)
 ![Publications](https://img.shields.io/badge/Peer--Reviewed_Publications-4-success?style=for-the-badge)
 
@@ -29,7 +30,7 @@ and supervisory control for agricultural digital twins.
 - 🔬 **Focus:** physics-guided inference · governed learning · digital twins · signal intelligence · robotics
 - 🎯 **Currently:** studying how learned control policies transfer when the underlying simulator changes
 - 🎓 **Next:** Master's in Artificial Intelligence, research-oriented
-- 📫 **Reach me:** [rsachinapis706@gmail.com](mailto:rsachinapis706@gmail.com)
+- 📫 **Reach me:** [rsachinapis706@gmail.com](mailto:rsachinapis706@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sachin-r-8283a5340/)
 
 ---
 
